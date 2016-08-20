@@ -6,9 +6,9 @@ color:
   saturation: 0.7814861047081649
   rhythmicContrast: 0.2191768705379218
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#F9E4AD'
+    - '#E6B098'
+    - '#CC4452'
+    - '#723147'
+    - '#31152B'
 name: webdev
