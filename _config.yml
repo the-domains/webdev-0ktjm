@@ -1,0 +1,14 @@
+layout_spectrum: 0.10113374353386462
+typography_spectrum: 0.45399447344243526
+color:
+  brandStrength: 0.278062415542081
+  lightness: 0.5631668879650533
+  saturation: 0.7814861047081649
+  rhythmicContrast: 0.2191768705379218
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: webdev
